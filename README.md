@@ -1,1 +1,2 @@
 # Currency-Converter
+# Designed and implemented a Currency Converter application that allows users to convert amounts from Indian Rupees (INR) to various foreign currencies. The project was developed using React.js and CSS, delivering a responsive and intuitive user interface. State management and dynamic updates were handled using the React useState hook to ensure seamless real-time currency conversion.
